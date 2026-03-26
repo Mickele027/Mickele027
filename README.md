@@ -19,14 +19,10 @@
  
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mickele027&theme=transparent&bg_color=003&border_color=003&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF)
  
- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mickele027&layout=compact&bg_color=003&border_color=003&title_color=FFF&text_color=FFF)
- 
  ## Minhas Contribuições
  
- [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Mickele027&repo=dio-trilha-poo-basico&bg_color=003&border_color=003&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF)](https://github.com/LorhanSouza/ConectaFAPES)
+ [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Mickele027&repo=dio-trilha-poo&bg_color=003&border_color=003&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF)](https://github.com/Mickele027/dio-trilha-poo)
  
- [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Mickele027&repo=dio-lab-open-source&bg_color=003&border_color=003&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF)](https://github.com/LorhanSouza/dio-lab-open-source)
+ [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Mickele027&repo=dio-trilha-java-basico&bg_color=003&border_color=003&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF)](https://github.com/Mickele027/dio-trilha-java-basico)
  
- [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Mickele027&repo=TrabalhosTPA&bg_color=003&border_color=003&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF)](https://github.com/VitorSSilva21/TrabalhosTPA)
- 
- [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Mickele027a&repo=dio-trilha-poo-bootcamp&bg_color=003&border_color=003&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF)](https://github.com/LorhanSouza/dio-trilha-poo-bootcamp)
+ [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Mickele027&repo=calculadora-fastapi-lib2&bg_color=003&border_color=003&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF)](https://github.com/Mickele027/calculadora-fastapi-lib2 )
